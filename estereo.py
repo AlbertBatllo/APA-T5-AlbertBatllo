@@ -1,3 +1,5 @@
+## Albert Batlló
+
 import struct
 
 def pack_wav_header(num_channels, sample_width, sample_rate, num_frames):
